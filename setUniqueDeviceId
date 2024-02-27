@@ -1,0 +1,5 @@
+	   	setDeActivateDate(deactdate); 
+        setSalutation(salutation); 
+        setIsEnabled(enabled); 
+        setUniqueDeviceId(uniqueDeviceId); 
+        setIsPrepay(isprepay); 
