@@ -1,0 +1,5 @@
+ public SampleUserImpl(User inUser) { 
+     
+        fInfo = new Hashtable(); 
+         
+        setLoginId(inUser.getLoginId()); 
