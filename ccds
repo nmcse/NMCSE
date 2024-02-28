@@ -1,0 +1,4 @@
+// Send the request to Content Delivery Server 
+
+// Evaluate the response 
+String errorCode = (String)response.get("response_code"); 
