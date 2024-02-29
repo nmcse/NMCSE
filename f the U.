@@ -1,0 +1,6 @@
+async function queryDryRun() {
+  // Runs a dry query of the U.S. given names dataset for the state of Texas.
+
+  const query = `SELECT name
+    FROM \`bigquery-public-data.usa_names.usa_1910_2013\`
+    WHERE state = 'TX'
