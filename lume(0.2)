@@ -1,0 +1,7 @@
+get_bullet_sound = pygame.mixer.Sound("sound/get_bullet.wav")
+get_bullet_sound.set_volume(0.2)
+upgrade_sound = pygame.mixer.Sound("sound/upgrade.wav")
+upgrade_sound.set_volume(0.2)
+enemy3_fly_sound = pygame.mixer.Sound("sound/enemy3_flying.wav")
+enemy3_fly_sound.set_volume(0.2)
+enemy1_down_sound = pygame.mixer.Sound("sound/enemy1_down.wav")
