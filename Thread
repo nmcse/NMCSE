@@ -1,0 +1,4 @@
+        new Thread(new Runnable() {
+            public void run() {
+                while (!over) {
+                    if (!myTank.isLive()) {
