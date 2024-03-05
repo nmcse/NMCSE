@@ -1,0 +1,5 @@
+        f.add(gamePanel);
+        f.setBounds(0, 0, AREA_WIDTH + 200, AREA_HEIGHT);
+        f.setDefaultCloseOperation(3);
+        f.setResizable(true);
+        f.setFocusable(true);
