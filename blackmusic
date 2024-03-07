@@ -1,0 +1,6 @@
+    public void playBackgroundMusic() {
+        if (Const.backgroundMusicOn && mBgMediaPlayer != null) {
+            mBgMediaPlayer.start();
+        } else {
+            if (mBgMediaPlayer.isPlaying()) {
+                mBgMediaPlayer.pause(
