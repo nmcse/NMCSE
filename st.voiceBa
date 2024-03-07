@@ -1,0 +1,4 @@
+            Const.voiceBackground = R.raw.supers;
+            Const.backgroundImgResid = R.drawable.mapds48_001;
+            Const.gameArrayStrResid = R.string.didong_001;
+            break;
