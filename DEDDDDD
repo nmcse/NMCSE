@@ -1,0 +1,5 @@
+	srand((unsigned int)time(0));//time(0)#include <time.h>
+	do {
+		menu();
+		scanf("%d", &input);
+		switch (input)
