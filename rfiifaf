@@ -1,0 +1,4 @@
+time.sleep(1)
+print ("Start guessing...\n")
+time.sleep(0.5)
+## A List Of Secret Words
